@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Ajmera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Dev from India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="CODING" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankaj-Ajmera&label=Profile%20views&color=0e75b6&style=flat" alt="Pankaj-Ajmera" /> </p>
@@ -21,7 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Ajmera&" alt="Pankaj-Ajmera" /></p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 
-</details>
